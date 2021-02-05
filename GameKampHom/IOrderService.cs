@@ -7,5 +7,9 @@ namespace GameKampHom
     interface IOrderService
     {
         void MakeSale(Products products);
+
+
+
+
     }
 }
