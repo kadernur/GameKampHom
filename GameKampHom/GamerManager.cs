@@ -6,6 +6,7 @@ namespace GameKampHom
 {
     class GamerManager : IGamerService
     {
+        //e devlet sistemi üzerinde kişi doğruluk kontrolü.
         IUserValidationService _userValidationService;
 
         public GamerManager(IUserValidationService userValidationService)
