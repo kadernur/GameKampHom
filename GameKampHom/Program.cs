@@ -22,7 +22,7 @@ namespace GameKampHom
             campaignManager.Add(new Campaign
             {
                 CampaignId = 1,
-                CampaignName = "ikinci ürün 1 Tl",
+                CampaignName = "ikinci ürün 1 Tl/Fırsatı Kaçırma",
                 CampaignDetail = "Şubat sonu indirimi."
             });
             Console.WriteLine("****************************************************");
