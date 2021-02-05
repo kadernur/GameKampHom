@@ -8,17 +8,17 @@ namespace GameKampHom
     {
         public void Add(Campaign campaign)
         {
-            Console.WriteLine("Kampanya eklendi"); ;
+            Console.WriteLine("Campaign added"); ;
         }
 
         public void Delete(Campaign campaign)
         {
-            Console.WriteLine("Kampanya silindi"); ;
+            Console.WriteLine("Campaign deleted"); ;
         }
 
         public void Update(Campaign campaign)
         {
-            Console.WriteLine("Kampanya güncellendi"); ;
+            Console.WriteLine("Campaign updated"); ;
         }
     }
 }
